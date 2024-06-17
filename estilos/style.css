@@ -41,7 +41,7 @@ span#burguer:hover {
 }
 
 menu {
-    display: none;
+    display: block;
 }
 
 menu ul {
